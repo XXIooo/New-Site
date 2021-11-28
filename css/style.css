@@ -1,0 +1,82 @@
+body {
+    padding: 30px;
+    background: url('../img/Haryy\ Potter.jpg');
+    background-color: #18b5a4;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: 0 0;
+    background-attachment: fixed;
+}
+
+.zagolovok{
+    text-align: center;
+    color: rgb(211, 107, 107);
+    text-shadow: 1px 2px 1px rgb(212, 19, 19);
+}
+
+.glava-1{
+    color: rgb(216, 199, 133);
+    text-shadow: 3px 9px 2px rgb(22, 129, 236);
+}
+.text-1{
+    font-family: arial;
+    font-size: 16px;
+    color: rgb(221, 41, 41);
+    text-shadow: 1px 1px 2px rgb(39, 10, 10), 0 0 1em red;
+}
+
+.glava-2{
+    color: rgb(216, 199, 133);
+    text-shadow: 3px 9px 2px rgb(22, 129, 236);
+}
+.text-2{
+    font-family: arial;
+    font-size: 16px;
+    color: rgb(221, 41, 41);
+    text-shadow: 1px 1px 2px rgb(39, 10, 10), 0 0 1em red;
+}
+
+.glava-3{
+    color: rgb(216, 199, 133);
+    text-shadow: 3px 9px 2px rgb(22, 129, 236);
+}
+.text-3{
+    font-family: arial;
+    font-size: 16px;
+    color: rgb(221, 41, 41);
+    text-shadow: 1px 1px 2px rgb(39, 10, 10), 0 0 1em red;
+}
+
+.glava-4{
+    color: rgb(216, 199, 133);
+    text-shadow: 3px 9px 2px rgb(22, 129, 236);
+}
+.text-4{
+    font-family: arial;
+    font-size: 16px;
+    color: rgb(221, 41, 41);
+    text-shadow: 1px 1px 2px rgb(39, 10, 10), 0 0 1em red;
+}
+
+.END{
+    padding-left: 35%;
+    font-family: arial;
+    font-size: 16px;
+    color: rgb(59, 7, 7);
+    text-shadow: 1px 1px 2px rgb(39, 10, 10), 0 0 1em red;
+}
+
+.END-spisok{
+    padding-left: 35%;
+    font-family: arial;
+    font-size: 16px;
+    color: rgb(59, 7, 7);
+    text-shadow: 1px 1px 2px rgb(39, 10, 10), 0 0 1em red;
+}
+
+a{
+    font-family: arial;
+    font-size: 16px;
+    color: rgb(59, 7, 7);
+    text-shadow: 1px 1px 2px rgb(39, 10, 10), 0 0 1em red;
+}
